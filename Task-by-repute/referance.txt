@@ -10,6 +10,7 @@ step-3 : then Open Step-2 Floder install Kubectl using Script
 step-4 : use cmd "Kubectl apply -f " all Yaml File for Deploy Service
 
 step-5 : check all Processes work or not Properly 
+        (using this cmd "kubectl get all -A") 
 
 Best Regard 
 Arjun Parmar
