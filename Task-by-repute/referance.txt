@@ -1,0 +1,15 @@
+Plz refer Documentation
+
+step-1 :   Open Step-1 Floder and install terraform and use cmd "terraform init" for proved all resources
+
+step-2 : then use cmd "terraform Plan" amd "terraform apply" its Create EKS and VPC for Production Environment
+
+step-3 : then Open Step-2 Floder install Kubectl using Script 
+
+step-4 : use cmd "Kubectl apply -f " all Yaml File for Deploy Service
+
+step-5 : check all Processes work or not Properly 
+
+Best Regard 
+Arjun Parmar
+9834964874
